@@ -1,4 +1,4 @@
-export default {
+exports.default = {
   'equities/bbca': {
     pairId:'101354',
     title:'Bank Central Asia',
