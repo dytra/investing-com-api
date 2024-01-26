@@ -944,4 +944,9 @@ exports.mapping = {
     title: 'Pimco Commodity Real Return Strategy Fund Institutional Class',
     name: 'PIMCO Commodity Real Return Strategy Institutional',
   },
+  'equities/bnk-central-as': {
+    pairId: '1005582',
+    title: 'Pimco Commodity Real Return Strategy Fund Institutional Class',
+    name: 'PIMCO Commodity Real Return Strategy Institutional',
+  }
 };
