@@ -946,5 +946,5 @@ exports.mapping = {
     title: 'Pimco Commodity Real Return Strategy Fund Institutional Class',
     name: 'PIMCO Commodity Real Return Strategy Institutional',
   },
-  ...idxMapping
+  ...idxMapping.default
 };
